@@ -3,7 +3,7 @@
 This repository contains materials for my workshop on Bayesian inference held at SWPA 2018. 
 
 ## Materials
-- Workshop slides (coming soon!)
+- Workshop slides ([pdf](bayesWorkshop.pdf))
 - [JASP software](http://jasp-stats.org)
 
 ## Data sets 
