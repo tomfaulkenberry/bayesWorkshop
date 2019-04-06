@@ -21,5 +21,5 @@ Each of the datasets below is formatted in CSV (comma separated value) format, w
 - *mental arithmetic task* ([csv](https://raw.githubusercontent.com/tomfaulkenberry/bayesWorkshop/master/datasets/mental_arithmetic.csv))
   - these data are from an experiment in which subjects were asked to complete as many simple addition problems as possible in 20 seconds. The number of correctly completed problems is recorded as `numCompleted`. Each participant completed two sheets of problems in counterbalanced order; one sheet contained *large* problems (i.e., the sum was 10 or larger), and one sheet contained *small* problems (i.e., the sum was less than 10). Further, participants were randomly assigned to receive problems presented in either *digit* format (e.g., 2 + 7) or *word* format (e.g., "two + seven").
 
-## sample math
-This is a sample math expression $$x^2+2$$
+## Example writeups
+Examples of how to write the results of the analyses from the workshop can be found ([here])(writeups.pdf).
